@@ -139,13 +139,14 @@ The entire training process alongside the relevant evaluations and visualization
 ## Screenshots
 
 <h4> 1. This image shows how Ridge Regression shrinks the coefficients of all features as regularization strength increases. In Ridge regression, all coefficients shrink smoothly toward zero as log(Alpha) increases. Unlike Lasso, Ridge never eliminates features entirely — it reduces their influence proportionally.  </h4>
-<img src="pic1.png" width="450px"> <br> 
+<img src="pic1.png" width="1000px" height="500px"> <br> 
+
 
 <h4> 2. This image shows how Lasso Regression shrinks the coefficients of all features as regularization strength increases. Lasso regression causes some coefficients to drop sharply to zero as log(Alpha) increases. This behavior is due to the L1 penalty, which promotes **feature selection** by eliminating less important features. Only a few dominant features survive high regularization, making the model simpler and sparser. </h4>
-<img src="pic2.png" width="450px"> <br> 
+<img src="pic2.png" width="1000px" height="500px"> <br> 
 
 <h4> 3. This plot shows how Elastic Net shrinks the coefficients of all features as regularization strength increases. Some features (e.g., Physical Activity and Junk Food) reduce significantly but not as abruptly as in Lasso. Elastic Net combines L1 and L2 penalties, leading to both shrinkage and sparsity in a balanced manner. </h4>
-<img src="pic3.png" width="450px">
+<img src="pic3.png" width="1000px" height="500px">
  <br> 
  
 ## License
