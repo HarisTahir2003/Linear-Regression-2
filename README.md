@@ -130,7 +130,6 @@ This dataset simulates human and zombie characteristics based on various lifesty
 - **Task Completion (scale):** Scale from 0 to 10 representing how often tasks are completed on time (0 = always on time, 10 = never on time). This score decreases with a higher human-zombie score, indicating declining productivity.
 
 - **Human-Zombie Score:** A continuous score from 0 to 100 representing the degree of "zombie-ness" of the individual, where 0 is fully human and 100 is completely zombie-like.
-- 
 
 ## Training and Visualization
 
