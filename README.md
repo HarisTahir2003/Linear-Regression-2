@@ -34,8 +34,6 @@ The `.csv` file contains the actual dataset used for model training and evaluati
 To run the notebooks in this repository, you will need the following packages:
 
 
-!pip install idx2numpy
-
 * `numpy`
 * `pandas`
 * `matplotlib`
