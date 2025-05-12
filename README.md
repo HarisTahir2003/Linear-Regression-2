@@ -115,7 +115,7 @@ The dataset used in this assignment is titled human_zombie_dataset_v5.csv, a cre
 
 This dataset simulates human and zombie characteristics based on various lifestyle and physical traits. The dataset contains 1,000 entries, each with features that correlate with a continuous "Human-Zombie Score" ranging from 0 (complete human) to 100 (complete zombie).
 
-## Features
+**Features**
 
 - **Height (cm):** The height of the individual measured in centimeters, it decreases with zombie score because zombies are known to shrink in height.
 
